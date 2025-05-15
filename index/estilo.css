@@ -1,0 +1,61 @@
+body {
+    background-color:lightpink;
+}
+
+.titulo1 {
+    color: white;
+    text-align: center;
+}
+
+.paragrafo1 {
+    text-align: justify;
+    font-size: 40px;
+
+}
+     
+.alternada {
+    line-height: 50px;
+
+}  
+
+#borda {
+    height: 200px;
+    height: 200px;
+    border-radius: 20px;
+
+}
+
+table {
+    width: 300px;
+    text-align: center;
+    
+}
+
+thead {
+    background-color: lightcoral
+}
+
+th {
+   padding: 10px;
+   color: white;
+      
+}
+
+
+td {
+    padding: 10px;
+    color: white;
+    background-color: lightcoral;
+    
+}
+
+a:hover {
+    color:blueviolet;
+}
+
+
+  
+
+
+    
+
